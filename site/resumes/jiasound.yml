@@ -1,0 +1,134 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Jia
+    last_name: Alfaro
+    
+    # Define yourself in 4-5 words
+    motto: Peace, Love, Creativity, Positivity
+    
+    # Focus
+    focus: Data Science, Marketing, Python
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: |
+      Versatile digital content producer and strategist with over 
+      a decade of experience in media production, marketing, and 
+      business operations across diverse sectors including e-commerce, 
+      tech, and creative industries. With a background in audio engineering
+      and multimedia production, Jia has led teams, built scalable content systems,
+      and driven measurable engagement through data-informed strategies. 
+      Recently expanding their skillset into data science and Python, 
+      Jia brings a powerful blend of creative and analytical thinking to 
+      any team, along with a proven ability to translate complex goals 
+      into compelling, high-impact content and campaigns.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: 
+
+    # Contact Information
+    email: jiasound4@gmail.com #optional
+    phone: (+506)-8634-0280 #optional
+    website: 
+    linkedin: https://www.linkedin.com/in/jia-sound-388582197/
+
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: https://github.com/JiaSound
+    
+    twitter:  #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Fluent
+
+    # Interests or hobbies
+    interests:
+      - item: Cycling
+
+      - item: Playing Live Music
+
+      - item: Macro Photography
+
+# Your previous education
+education:
+    - degree: BA in Film Scoring
+      university: Berklee College of Music
+      # optional
+      university_logo: https://www.berklee.edu/themes/custom/berklee_base/images/logo/stacked-www-bcm.jpg
+      time: 2011 - 2014
+
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: Owner / Lead Producer
+      time: 2011 - Present
+      company: JiaSound
+      # optional
+      details: |
+        Digital Marketing and Content Specialist, specializing in podcast and
+        YouTube video production. Proven track record in driving sales through
+        social media, SEO, and brand management across e-commerce, media, and
+        the cannabis sector. Manage live video productions and operate a mobile
+        podcast and video content studio. Develop audience engagement tactics
+        and book and research guests while leveraging analytics and creative
+        direction to enhance content quality and strategic impact. Expertise includes
+        photography, videography, sound design, and music composition/
+        production/mixing and mastering.
+
+
+    - role: Social Media Coordinator
+      time: April 2022 - March 2024
+      company: AmericannMade; Los Angeles, CA
+      # optional
+      details: |
+        Oversaw social media management, successfully driving foot traffic to retail
+        locations through strategic posts. Produced original video, photo, and
+        product photography content, achieving over 120 posts and a minimum of
+        240 stories monthly across four retail locations. Identified and managed
+        cross-marketing partnerships and developed innovative event ideas to
+        enhance shop visibility.
+
+
+    - role: General Business Manager/Producer
+      time: April 2021 - April 2022
+      company: Magic City Studios; Los Angeles, CA
+      # optional
+      details: |
+        Led a multimedia production team creating content for the B2B cannabis
+        sector. Managed multi-client projects, developed multimedia production and
+        virtual assistant management systems, and structured billing, purchasing,
+        and payroll processes. Trained team members, created contractor
+        onboarding systems, and managed online accounts. Produced app mockups
+        and drafted customizable Excel business projections for Bitcoin mining,
+        Airbnb, DeFi investing, and mixed-light greenhouse projects.
+
+
+skills:
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Excel
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 40%
+
+      - name: All of Adobe Suite, Photoshop through Premier through After Effects
+        level: 100%
